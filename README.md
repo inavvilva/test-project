@@ -1,0 +1,3 @@
+# Package
+
+`npm install vani `
